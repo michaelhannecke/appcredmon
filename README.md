@@ -209,8 +209,4 @@ Change `$suffix` (and optionally resource name variables) in `setup-appcredmon.p
 - Key Vault uses RBAC mode; the Function MI has `Key Vault Secrets User` only
 - HTTPS enforced, TLS 1.2 minimum, FTPS disabled
 
----
 
-## License
-
-MIT
